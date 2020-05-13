@@ -1,0 +1,7 @@
+build/*.js
+config/*.js
+src/components/@minui
+src/im/
+src/pages/circle/circle-detail3/
+src/pages/chatting/
+src/im2/
